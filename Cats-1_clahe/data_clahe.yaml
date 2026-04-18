@@ -1,0 +1,6 @@
+path: /content/Cats-1_clahe
+train: train/images
+val: valid/images
+test: test/images
+names:
+- cat
